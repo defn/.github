@@ -5,6 +5,7 @@
 🌈 Contribution guidelines - how can the community get involved?
 
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+- https://whimsical.com/ideal-platform-MyKZPV75rJ572WvuvdVXLJ
 
 🍿 Fun facts - what does your team eat for breakfast?
 
