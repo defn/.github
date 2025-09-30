@@ -1,12 +1,23 @@
-## Hi there 👋
+# DEFN: DevOps for Everyone
 
-🙋‍♀️ A short introduction - what is your organization all about?
+## IDEA
 
-🌈 Contribution guidelines - how can the community get involved?
+Intentions: Theorectical knowledge as Cuelang schemas
+Definitions: Direct knowledge in git repos
+Execution: Derived knowledge from pipelines, scripts, and artifacts
+Application: Indirect ikowledge accessed through APIs from Kubernetes, cloud platforms, and vendors 
 
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-- https://whimsical.com/ideal-platform-MyKZPV75rJ572WvuvdVXLJ
+## LOOP
 
-🍿 Fun facts - what does your team eat for breakfast?
+Limits: Operational boundaries and acceptable failure rates
+Observe: Ingest data and detect drift
+Orient: Establish context through relationships and scores
+Persist: Record changes and learn from operational experience
 
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## BUILD
+
+Blocks: Pre-built components
+Units: Useable combinations
+Integration: Compose as you like
+Line: Pipelines for each deployable unit
+Delivery: Continously delivery & deployment
