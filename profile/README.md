@@ -1,4 +1,4 @@
-# DEFN: DevOps for Everyone
+# DevOps for Everyone
 
 ## IDEA
 
